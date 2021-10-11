@@ -1,0 +1,15 @@
+{
+  "name": "nec_saravillo",
+  "version": "1.0.0",
+  "description": "code",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "sonny saravillo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.2.5"
+  }
+}
